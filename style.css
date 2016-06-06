@@ -1,0 +1,65 @@
+body {
+  background-color: #4862A3;
+  text-align:center;
+  color:white;
+  font-family: "Ubuntu mono", monospace;
+}
+h2 {
+  border: .1em solid white;
+  margin: 0 auto;
+  width: 98%;
+}
+#menubtn {
+  max-height: .8em;
+  float:right;
+  padding-right: .2em;
+  padding-top: .2em;
+}
+.closed{
+  background-color: red;
+  color: white;
+}
+.streamers {
+  border: .1em solid white;
+  max-width: 70%;
+  margin: .3em auto ;
+  text-align: left;
+  min-width:60%;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: black;
+}
+.menuItems{
+  width: 100%;
+  border: .1em solid white;
+  margin:0;
+}
+span {
+  float:right;
+  color: white;
+}
+
+#menu{
+  float: right;
+  margin-right: 1%;
+}
+
+.online {
+  background-color: orange;
+}
+.offline {
+  background-color: grey;
+}
+#all{
+  background-color: #4862A3;
+}
+#online{
+  background-color: orange;
+}
+#offline {
+  background-color:grey;
+}
